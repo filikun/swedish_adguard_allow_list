@@ -1,0 +1,3 @@
+! Prisjakt filter (Så att du kan klicka ut från Prisjakt)
+@@||ad.doubleclick.net^
+@@||footway.postaffiliatepro.com^
