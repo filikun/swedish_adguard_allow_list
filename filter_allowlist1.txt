@@ -5,4 +5,5 @@
 
 ! Google filter (så att du kan klicka ut från Google shopping)
 @@||adservice.google.se^
+@@||track.adform.net^
 
