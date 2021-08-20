@@ -1,6 +1,7 @@
 ! Prisjakt filter (Så att du kan klicka ut från Prisjakt)
 @@||ad.doubleclick.net^
 @@||footway.postaffiliatepro.com^
+@@||click.cptrack.de^
 
 
 ! Google filter (så att du kan klicka ut från Google shopping)
