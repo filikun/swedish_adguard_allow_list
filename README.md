@@ -6,3 +6,4 @@ Filtret inkluderar:
 
 - Prisjakt
 - Google Shopping
+- Pricerunner
