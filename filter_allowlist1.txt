@@ -8,3 +8,6 @@
 @@||adservice.google.se^
 @@||track.adform.net^
 @@||mtst.io^
+
+! Pricerunner filter (så att du kan klicka ut från Pricerunner shopping)
+@@||track.adtraction.com^
