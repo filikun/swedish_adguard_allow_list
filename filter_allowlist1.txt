@@ -1,14 +1,9 @@
-! Prisjakt filter (Så att du kan klicka ut från Prisjakt)
 @@||ad.doubleclick.net^
 @@||footway.postaffiliatepro.com^
 @@||click.cptrack.de^
-
-
-! Google filter (så att du kan klicka ut från Google shopping)
 @@||adservice.google.se^
 @@||track.adform.net^
 @@||mtst.io^
-
-! Pricerunner filter (så att du kan klicka ut från Pricerunner shopping)
 @@||track.adtraction.com^
 @@||at.tretti.se^
+@@||pdt.tradedoubler.com
