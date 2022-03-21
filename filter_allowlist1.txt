@@ -6,5 +6,5 @@
 @@||mtst.io^
 @@||track.adtraction.com^
 @@||at.tretti.se^
-@@||pdt.tradedoubler.com
-
+@@||pdt.tradedoubler.com^
+@@||eu.spgo.io^
