@@ -1,6 +1,6 @@
 # När adblockern fungerar lite för bra
 
-Många filter blockerar utklick från ex Prisjakt & Google shopping. Det här filtret är lite snällare och öppnar för specifika adresser som ofta förekommer i de här fallen. Listan updateras kontinuerligt när jag upptäcker att utklick int fungerar som de ska.
+Många filter blockerar utklick från ex Prisjakt & Google shopping. Det här filtret är lite snällare och öppnar för specifika adresser som ofta förekommer i de här fallen. Listan updateras kontinuerligt när jag upptäcker att utklick inte fungerar som de ska.
 
 ## Lägg till filtret i din allowlist
 1. Filters > DNS allowlists > Add allowlist 
