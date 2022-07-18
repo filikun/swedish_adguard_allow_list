@@ -1,4 +1,4 @@
-@@||ad.doubleclick.net^$important
+@@||ad.doubleclick.net^
 @@||footway.postaffiliatepro.com^
 @@||click.cptrack.de^
 @@||adservice.google.se^
@@ -9,3 +9,4 @@
 @@||pdt.tradedoubler.com^
 @@||eu.spgo.io^
 @@||track.seadform.net^
+@@||dart.l.doubleclick.net^
