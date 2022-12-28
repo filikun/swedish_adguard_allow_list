@@ -11,3 +11,4 @@
 @@||track.seadform.net^
 @@||dart.l.doubleclick.net^
 @@||b.prisjakt.nu^
+&@||partner-ads.com^
