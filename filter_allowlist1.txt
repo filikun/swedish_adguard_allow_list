@@ -12,3 +12,4 @@
 @@||dart.l.doubleclick.net^
 @@||b.prisjakt.nu^
 @@||partner-ads.com^
+@@||ion.kjell.com^
